@@ -1,0 +1,37 @@
+﻿[
+  {
+    "id": 1,
+    "tema": "inteligencia artificial",
+    "titulo": "Adopción de inteligencia artificial",
+    "contenido": "La inteligencia artificial permite automatizar tareas, analizar grandes volúmenes de información y mejorar procesos empresariales. Su implementación requiere capacitación, infraestructura y controles de calidad.",
+    "fuente": "Base de conocimiento interna"
+  },
+  {
+    "id": 2,
+    "tema": "inteligencia artificial",
+    "titulo": "Beneficios de la automatización",
+    "contenido": "La automatización puede reducir tareas repetitivas, mejorar la productividad y disminuir errores operativos. Los resultados dependen del proceso seleccionado y de la calidad de los datos.",
+    "fuente": "Base de conocimiento interna"
+  },
+  {
+    "id": 3,
+    "tema": "inteligencia artificial",
+    "titulo": "Riesgos de la inteligencia artificial",
+    "contenido": "Entre los riesgos se encuentran los sesgos de los datos, errores en las respuestas, problemas de privacidad y dependencia excesiva de sistemas automatizados.",
+    "fuente": "Base de conocimiento interna"
+  },
+  {
+    "id": 4,
+    "tema": "empresas",
+    "titulo": "Transformación digital",
+    "contenido": "La transformación digital integra tecnología en los procesos de una organización. Puede mejorar la atención al cliente, la gestión de inventarios y la toma de decisiones.",
+    "fuente": "Base de conocimiento interna"
+  },
+  {
+    "id": 5,
+    "tema": "empresas",
+    "titulo": "Indicadores de productividad",
+    "contenido": "La productividad puede evaluarse mediante indicadores como tiempo de ejecución, cantidad de tareas completadas, costos operativos y tasa de errores.",
+    "fuente": "Base de conocimiento interna"
+  }
+]
